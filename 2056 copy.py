@@ -1,3 +1,6 @@
+#
+import sys
+sys.stdin = open('input_data/2056.txt')
 # 유효하다. 
 # 유효하지 않다. 
 # '#{} {}/{}/{}'.format(t,numbers[4],numbers[4:6],numbers[6:8])
