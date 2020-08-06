@@ -4,25 +4,6 @@
 # cond = list(map(int,input().split()))
 # lists = list(map(int,input().split()))
 
-for t in range(1, T+1):
-    K, N, M = list(map(int, input().split()))
-    numbers = list(map(int, input().split()))
-    station = [0[*(N+1)]]
-    for val in numbers:
-        station = [0]*(N+1)
-
-    bus = 0
-    ans = 0
-    while bus + K < N :
-        for i in range(bus + K, bus, -1):
-            if station[i]:
-                bus = i
-                ans +=1
-                break
-        if bus == prev:
-            ans = 0; break
-
-
 
 start = 0
 count = 0

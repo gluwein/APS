@@ -4,23 +4,25 @@ sys.stdin = open('input_data/1208.txt')
 T = 10
 for tt in range(1,T+1):
     dump = int(input())
-    mountain = list(map(int, input().split()))
+    m= list(map(int, input().split()))
+    mountain = []
+    for i in m:
+        mountain.append(i)
+    zero1 = 0
+    zero2 = float('inf')
     for i in range(dump):
-        zero1 = 0
-        zero2 = float('inf')
         for l in range(len(mountain)):
             if zero1 <= mountain[l]:
                 zero1 = mountain[l]
-
+        print(zero1)
         for s in range(len(mountain)):
             if zero2 >= mountain[s]:
                 zero2 = mountain[s]
-
-        zero2 += 1
         zero1 -= 1
-    print(zero1 - zero2)
-
-
+        zero2 += 1
+        result = zero1 - zero2
+    print('#{} {}'.format(tt,result))
+ 
 
 
 
