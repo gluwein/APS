@@ -1,4 +1,4 @@
-import sys
+import sys파이참 인터프리터
 sys.stdin = open('input_data/1208.txt')
 
 T = 10
