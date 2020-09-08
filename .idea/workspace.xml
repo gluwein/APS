@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="751e7e44-9d00-4429-8d5d-2f1d3280c1b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1206.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_data/1206.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/성정욱.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SWEA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SWEA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1208.py" beforeDir="false" afterPath="$PROJECT_DIR$/1208.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4836.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4843.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Max.py" beforeDir="false" afterPath="$PROJECT_DIR$/Max.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +25,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -44,7 +36,7 @@
       <recent name="C:\Users\aclass\Desktop\SWEA" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1208">
+  <component name="RunManager" selected="Python.swea_5097">
     <configuration name="1208" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SWEA" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,27 +50,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1208.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4836 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="SWEA" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4836.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,20 +121,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="swea_5097" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SWEA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0902" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0902/swea_5097.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.4836 (1)" />
       <item itemvalue="Python.4843" />
       <item itemvalue="Python.4837" />
       <item itemvalue="Python.4843_특별한 정렬" />
       <item itemvalue="Python.1208" />
+      <item itemvalue="Python.swea_5097" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.swea_5097" />
         <item itemvalue="Python.1208" />
         <item itemvalue="Python.4843_특별한 정렬" />
         <item itemvalue="Python.4837" />
         <item itemvalue="Python.4843" />
-        <item itemvalue="Python.4836 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -193,22 +185,22 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="582" y="244" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1596949117029" />
-    <state width="1362" height="374" key="GridCell.Tab.0.bottom" timestamp="1596949479517">
+    <state width="2539" height="282" key="GridCell.Tab.0.bottom" timestamp="1599561795543">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1362" height="374" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1596949479517" />
-    <state width="1362" height="374" key="GridCell.Tab.0.center" timestamp="1596949479517">
+    <state width="2539" height="282" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1599561795543" />
+    <state width="2539" height="282" key="GridCell.Tab.0.center" timestamp="1599561795543">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1362" height="374" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1596949479517" />
-    <state width="1362" height="374" key="GridCell.Tab.0.left" timestamp="1596949479516">
+    <state width="2539" height="282" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1599561795543" />
+    <state width="2539" height="282" key="GridCell.Tab.0.left" timestamp="1599561795543">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1362" height="374" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1596949479516" />
-    <state width="1362" height="374" key="GridCell.Tab.0.right" timestamp="1596949479517">
+    <state width="2539" height="282" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1599561795543" />
+    <state width="2539" height="282" key="GridCell.Tab.0.right" timestamp="1599561795543">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1362" height="374" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1596949479517" />
+    <state width="2539" height="282" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1599561795543" />
     <state x="304" y="134" key="SettingsEditor" timestamp="1596949470479">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
