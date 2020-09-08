@@ -21,7 +21,7 @@ for t in range(T):
                 sum_column += 1
             else :
                 if sum_column == m:
-                    counts += 1
+                    counts += 1 
                 sum_column = 0
 
         if sum_row == m:

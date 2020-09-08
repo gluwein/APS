@@ -15,4 +15,4 @@ for t in range(1, T + 1):
                 speed = 0
         move += speed
 
-    print('#{} {}'.format(t, move))
+    print('#{} {}'.format(t, move)) 

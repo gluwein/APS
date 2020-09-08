@@ -10,3 +10,4 @@ for j in range(1,t+1):
         if lists[:i] == lists[i:(i)*2]:
             print("#{} {}".format(j, i))
             break
+ 
