@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="751e7e44-9d00-4429-8d5d-2f1d3280c1b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/0909/트리예제.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +27,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/0909" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -143,10 +145,10 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.4843" />
+      <item itemvalue="Python.1208" />
       <item itemvalue="Python.4837" />
       <item itemvalue="Python.4843_특별한 정렬" />
-      <item itemvalue="Python.1208" />
+      <item itemvalue="Python.4843" />
       <item itemvalue="Python.swea_5097" />
     </list>
     <recent_temporary>
@@ -181,10 +183,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1146" y="279" key="EnvironmentVariablesDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1596948425071" />
-    <state x="582" y="244" key="FileChooserDialogImpl" timestamp="1596949117029">
+    <state x="582" y="244" key="FileChooserDialogImpl" timestamp="1599626040901">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="582" y="244" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1596949117029" />
+    <state x="582" y="244" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1599626040901" />
     <state width="2539" height="282" key="GridCell.Tab.0.bottom" timestamp="1599561795543">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
