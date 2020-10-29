@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:study" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="751e7e44-9d00-4429-8d5d-2f1d3280c1b5" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/1027/1240.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/1027/1961.py" afterDir="false" />
@@ -11,6 +35,15 @@
       <change afterPath="$PROJECT_DIR$/1027/swea_5185_2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/1027/검증용.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/SWEA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SWEA.iml" afterDir="false" />
+=======
+    <list default="true" id="91c27ab5-c745-4226-a23d-ce7002c8fa2c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1028/순열 재귀로 구현.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1028/순열만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1028/예제풀이3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1028/정렬.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SWEA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+>>>>>>> 2d8465a9f60ef77e9b2031668f78752967a9cefe
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
@@ -95,6 +128,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -139,12 +173,16 @@
       <pane id="Scope" />
     </panes>
   </component>
+=======
+  <component name="ProjectId" id="1jURiWxqMLl8nlebNyDzBrJlkTf" />
+>>>>>>> 2d8465a9f60ef77e9b2031668f78752967a9cefe
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/0909" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
@@ -172,17 +210,31 @@
   <component name="RunManager" selected="Python.1240">
     <configuration name="1240" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SWEA" />
+=======
+  </component>
+  <component name="RunManager" selected="Python.예제풀이3">
+    <configuration name="정렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="APS" />
+>>>>>>> 2d8465a9f60ef77e9b2031668f78752967a9cefe
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1027" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1027/1240.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1028" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1028/정렬.py" />
+>>>>>>> 2d8465a9f60ef77e9b2031668f78752967a9cefe
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,19 +243,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="1961" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SWEA" />
+=======
+    <configuration name="예제풀이3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="APS" />
+>>>>>>> 2d8465a9f60ef77e9b2031668f78752967a9cefe
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1027" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1027/1961.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1028" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1028/예제풀이3.py" />
+>>>>>>> 2d8465a9f60ef77e9b2031668f78752967a9cefe
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,6 +277,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="5186" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SWEA" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -296,16 +362,27 @@
   <component name="SvnConfiguration">
     <configuration />
   </component>
+=======
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.예제풀이3" />
+        <item itemvalue="Python.정렬" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+>>>>>>> 2d8465a9f60ef77e9b2031668f78752967a9cefe
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="751e7e44-9d00-4429-8d5d-2f1d3280c1b5" name="Default Changelist" comment="" />
-      <created>1596518815389</created>
+      <changelist id="91c27ab5-c745-4226-a23d-ce7002c8fa2c" name="Default Changelist" comment="" />
+      <created>1603856811126</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1596518815389</updated>
+      <updated>1603856811126</updated>
     </task>
     <servers />
   </component>
+<<<<<<< HEAD
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
@@ -350,36 +427,72 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+=======
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+>>>>>>> 2d8465a9f60ef77e9b2031668f78752967a9cefe
   </component>
   <component name="WindowStateProjectService">
-    <state x="1146" y="279" key="EnvironmentVariablesDialog" timestamp="1596948425071">
+    <state x="1694" y="264" key="FileChooserDialogImpl" timestamp="1603877475872">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1146" y="279" key="EnvironmentVariablesDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1596948425071" />
-    <state x="582" y="244" key="FileChooserDialogImpl" timestamp="1599626040901">
+    <state x="1694" y="264" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1603877475872" />
+    <state width="1242" height="347" key="GridCell.Tab.0.bottom" timestamp="1603877494060">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="582" y="244" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1599626040901" />
-    <state width="2539" height="282" key="GridCell.Tab.0.bottom" timestamp="1599561795543">
+    <state width="1242" height="347" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1603877494060" />
+    <state width="1242" height="347" key="GridCell.Tab.0.center" timestamp="1603877494060">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="282" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1599561795543" />
-    <state width="2539" height="282" key="GridCell.Tab.0.center" timestamp="1599561795543">
+    <state width="1242" height="347" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1603877494060" />
+    <state width="1242" height="347" key="GridCell.Tab.0.left" timestamp="1603877494059">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="282" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1599561795543" />
-    <state width="2539" height="282" key="GridCell.Tab.0.left" timestamp="1599561795543">
+    <state width="1242" height="347" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1603877494059" />
+    <state width="1242" height="347" key="GridCell.Tab.0.right" timestamp="1603877494060">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="282" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1599561795543" />
-    <state width="2539" height="282" key="GridCell.Tab.0.right" timestamp="1599561795543">
+    <state width="1242" height="347" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1603877494060" />
+    <state width="1242" height="347" key="GridCell.Tab.1.bottom" timestamp="1603877494060">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2539" height="282" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1599561795543" />
-    <state x="304" y="134" key="SettingsEditor" timestamp="1596949470479">
+    <state width="1242" height="347" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1603877494060" />
+    <state width="1242" height="347" key="GridCell.Tab.1.center" timestamp="1603877494060">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="304" y="134" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1596949470479" />
+    <state width="1242" height="347" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1603877494060" />
+    <state width="1242" height="347" key="GridCell.Tab.1.left" timestamp="1603877494060">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1242" height="347" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1603877494060" />
+    <state width="1242" height="347" key="GridCell.Tab.1.right" timestamp="1603877494060">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1242" height="347" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1603877494060" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1028/정렬.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1028/예제풀이3.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
