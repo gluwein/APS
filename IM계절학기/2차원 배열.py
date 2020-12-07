@@ -1,0 +1,1 @@
+#1. [input().split()] for in range 3
